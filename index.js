@@ -29,5 +29,5 @@ app.use("/static", express.static("./static"));
 
 
 app.listen(port, "0.0.0.0", () => {
-    console.log("listening on port: " + port);
+    console.log("listening on (container) port: " + port);
 });
