@@ -3,7 +3,7 @@
 ------------
 
 
-# Lab #3
+# Lab #3:
 
 1. **Deploy your stack**
 	- `sudo docker swarm init`
