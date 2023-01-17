@@ -4,6 +4,7 @@ package-lock.json
 
 .dockerignore
 .dockerfile
+docker-compose.yaml
 
 .git
 .gitignore
